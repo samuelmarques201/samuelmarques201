@@ -2,7 +2,7 @@
 
 
 - 💻 Analise e desenvolvimento de sistemas
-- 🌱 Atualmente aprendendo HTML|CSS|JavaScript
+- 🌱 Atualmente aprendendo HTML | CSS | JavaScript
 - 📚 Conhecimento área de TI
 
  <div>
